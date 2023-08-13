@@ -1,4 +1,4 @@
 # Dockerfile
-FROM alpine
+FROM alpine:3.18.3
 COPY jbot /usr/bin/jbot
 CMD ["/usr/bin/jbot"]
