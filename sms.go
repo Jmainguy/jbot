@@ -16,7 +16,6 @@ func sendSMS(message string) {
 	params.SetFrom(os.Getenv("TWILIO_PHONE_NUMBER"))
 	params.SetBody(message)
 
-	//_, err := client.ApiV2010.CreateMessage(params)
 	_, err := client.Api.CreateMessage(params)
 	if err != nil {
 		fmt.Println(err.Error())
