@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	github.com/slack-go/slack v0.13.0
-	github.com/twilio/twilio-go v1.19.0
+	github.com/twilio/twilio-go v1.21.0
 )
 
 require (
