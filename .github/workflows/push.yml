@@ -6,3 +6,5 @@ on:
 jobs:
   golang-ci:
     uses: Jmainguy/golang-workflows/.github/workflows/golang-ci.yml@security
+    with:
+      docker: true
