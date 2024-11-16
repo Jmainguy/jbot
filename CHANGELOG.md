@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.0.4](https://github.com/Jmainguy/jbot/compare/v0.0.3...v0.0.4) (2024-11-02)
+
+
+### Bug Fixes
+
+* **deps:** update module github.com/slack-go/slack to v0.15.0 ([389d91b](https://github.com/Jmainguy/jbot/commit/389d91b4061c122983208416d428a3970ab4f235))
+* **deps:** update module github.com/twilio/twilio-go to v1.23.3 ([fb6dc55](https://github.com/Jmainguy/jbot/commit/fb6dc556047c16645d8539d981c61d2c323d24f7))
+* **deps:** update module github.com/twilio/twilio-go to v1.23.5 ([4b8820f](https://github.com/Jmainguy/jbot/commit/4b8820fc2e60d5ba8f474098f335da1528a4ca36))
+
 ## [0.0.3](https://github.com/Jmainguy/jbot/compare/v0.0.2...v0.0.3) (2024-09-20)
 
 
