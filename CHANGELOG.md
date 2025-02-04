@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.6](https://github.com/Jmainguy/jbot/compare/v0.0.5...v0.0.6) (2025-02-04)
+
+
+### Bug Fixes
+
+* **deps:** update module github.com/twilio/twilio-go to v1.23.11 ([db12bb3](https://github.com/Jmainguy/jbot/commit/db12bb3fcb0bc71f1a5dbe5f9d712ce926b42f29))
+
 ## [0.0.5](https://github.com/Jmainguy/jbot/compare/v0.0.4...v0.0.5) (2024-12-17)
 
 
