@@ -1,5 +1,22 @@
 # Changelog
 
+## [1.0.0](https://github.com/Jmainguy/jbot/compare/v0.0.5...v1.0.0) (2025-08-28)
+
+
+### ⚠ BREAKING CHANGES
+
+* release 1.0
+
+### Features
+
+* release 1.0 ([3dea635](https://github.com/Jmainguy/jbot/commit/3dea6356ffc30748b9e8ab4fd73710b32f1211d1))
+
+
+### Bug Fixes
+
+* **deps:** update module github.com/twilio/twilio-go to v1.23.11 ([e42f7a4](https://github.com/Jmainguy/jbot/commit/e42f7a4963e9ae93b7529f3992ec27059971677d))
+* **deps:** update module github.com/twilio/twilio-go to v1.23.11 ([db12bb3](https://github.com/Jmainguy/jbot/commit/db12bb3fcb0bc71f1a5dbe5f9d712ce926b42f29))
+
 ## [0.0.5](https://github.com/Jmainguy/jbot/compare/v0.0.4...v0.0.5) (2024-12-17)
 
 
