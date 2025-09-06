@@ -4,7 +4,7 @@ go 1.25.0
 
 require (
 	github.com/slack-go/slack v0.17.3
-	github.com/twilio/twilio-go v1.27.2
+	github.com/twilio/twilio-go v1.28.0
 )
 
 require (
