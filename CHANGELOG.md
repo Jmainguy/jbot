@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.0.4](https://github.com/Jmainguy/jbot/compare/v1.0.3...v1.0.4) (2026-03-30)
+
+
+### Bug Fixes
+
+* **deps:** update all non-major dependencies ([a046e0e](https://github.com/Jmainguy/jbot/commit/a046e0e16d59cede1a7da2e52a17403a14346b29))
+* **deps:** update all non-major dependencies ([96b7fa5](https://github.com/Jmainguy/jbot/commit/96b7fa5fcfcee99a568e08e84a3fb7a7be2e36c1))
+* **deps:** update module github.com/twilio/twilio-go to v1.28.6 ([72f3937](https://github.com/Jmainguy/jbot/commit/72f3937d7032b4669ec44b12b9e31379ac6319a9))
+* **deps:** update module github.com/twilio/twilio-go to v1.28.6 ([bd52d45](https://github.com/Jmainguy/jbot/commit/bd52d453aaeb36c589c71b3f34b823023228f9f1))
+* **deps:** update module github.com/twilio/twilio-go to v1.28.7 ([cd130de](https://github.com/Jmainguy/jbot/commit/cd130de4518ce284484620259c25ab8b1686d66b))
+* **deps:** update module github.com/twilio/twilio-go to v1.28.7 ([931c5a2](https://github.com/Jmainguy/jbot/commit/931c5a20e8f9841c532726107279057d6d9d16de))
+
 ## [1.0.3](https://github.com/Jmainguy/jbot/compare/v1.0.2...v1.0.3) (2025-11-10)
 
 
