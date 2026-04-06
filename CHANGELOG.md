@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.5](https://github.com/Jmainguy/jbot/compare/v1.0.4...v1.0.5) (2026-04-06)
+
+
+### Bug Fixes
+
+* **deps:** update module github.com/slack-go/slack to v0.21.0 ([747f71c](https://github.com/Jmainguy/jbot/commit/747f71c3d09cde5ac0480f6fbfd9252be2acbc2e))
+* **deps:** update module github.com/slack-go/slack to v0.21.0 ([15b5df0](https://github.com/Jmainguy/jbot/commit/15b5df0ab48a061255439a1846c8a129c02fec5c))
+
 ## [1.0.4](https://github.com/Jmainguy/jbot/compare/v1.0.3...v1.0.4) (2026-03-30)
 
 
