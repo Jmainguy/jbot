@@ -3,7 +3,7 @@ module github.com/jmainguy/jbot
 go 1.25.0
 
 require (
-	github.com/slack-go/slack v0.20.0
+	github.com/slack-go/slack v0.21.0
 	github.com/twilio/twilio-go v1.30.4
 )
 
